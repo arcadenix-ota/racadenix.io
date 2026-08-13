@@ -1,0 +1,38 @@
+{
+    "version": "1.0.0",
+    "mainAssembly": "HotUpdate",
+    "entryType": "HotUpdate.HotUpdateEntry",
+    "entryMethod": "Run",
+    "aotMetaAssemblies": [
+        "mscorlib.dll",
+        "UnityEngine.CoreModule.dll"
+    ],
+    "hotUpdateAssemblies": [
+        "HotUpdate.dll"
+    ],
+    "assetBundles": [
+        "hotupdate_assets.ab"
+    ],
+    "files": [
+        {
+            "name": "HotUpdate.dll.bytes",
+            "size": 7168,
+            "md5": "c1f774a68775f6a97fc8a86816096b61"
+        },
+        {
+            "name": "mscorlib.dll.bytes",
+            "size": 1821696,
+            "md5": "03b2d1a16e10eea46623956d9277813a"
+        },
+        {
+            "name": "UnityEngine.CoreModule.dll.bytes",
+            "size": 790528,
+            "md5": "0cfb009f9d533c72d7181cd327993e75"
+        },
+        {
+            "name": "hotupdate_assets.ab",
+            "size": 92322,
+            "md5": "3a0018bec4f388c1baea5d5ab13de892"
+        }
+    ]
+}
