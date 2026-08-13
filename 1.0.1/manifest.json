@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "mainAssembly": "HotUpdate",
     "entryType": "HotUpdate.HotUpdateEntry",
     "entryMethod": "Run",
@@ -16,8 +16,8 @@
     "files": [
         {
             "name": "HotUpdate.dll.bytes",
-            "size": 6656,
-            "md5": "dd2fbfcf84f7ce2a161a4c5cdddd5f48"
+            "size": 7168,
+            "md5": "205ef6fe1f5cfe69a414ef462471e4c4"
         },
         {
             "name": "mscorlib.dll.bytes",
