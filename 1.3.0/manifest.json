@@ -1,0 +1,49 @@
+{
+    "version": "1.3.0",
+    "mainAssembly": "Game.Runtime",
+    "entryType": "Game.Entry.GameEntry",
+    "aotMetaAssemblies": [
+        "mscorlib.dll",
+        "UnityEngine.CoreModule.dll",
+        "Zenject.dll",
+        "Unity.InputSystem.dll"
+    ],
+    "hotUpdateAssemblies": [
+        "Game.Runtime.dll"
+    ],
+    "assetBundles": [
+        "hotupdate_assets.ab"
+    ],
+    "files": [
+        {
+            "name": "Game.Runtime.dll.bytes",
+            "size": 19968,
+            "md5": "a61ea20f1d0434e0397df3f9ae961c4e"
+        },
+        {
+            "name": "mscorlib.dll.bytes",
+            "size": 2134528,
+            "md5": "a3f3f59c41df62ed73469bd0f011d9ab"
+        },
+        {
+            "name": "UnityEngine.CoreModule.dll.bytes",
+            "size": 930304,
+            "md5": "85bd92824adf787f1fdad529306362ac"
+        },
+        {
+            "name": "Zenject.dll.bytes",
+            "size": 484864,
+            "md5": "a318f19816adb9e7f53ae9fb2f4de2b2"
+        },
+        {
+            "name": "Unity.InputSystem.dll.bytes",
+            "size": 1123328,
+            "md5": "53fbab56425b421c469d33c885baa332"
+        },
+        {
+            "name": "hotupdate_assets.ab",
+            "size": 91135,
+            "md5": "6abd28f094893ee5407d68366fa3a904"
+        }
+    ]
+}
