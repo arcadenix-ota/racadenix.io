@@ -1,0 +1,53 @@
+{
+    "version": "1.4.2",
+    "mainAssembly": "Game.Runtime",
+    "entryType": "Game.Entry.GameEntry",
+    "aotMetaAssemblies": [
+        "mscorlib.dll",
+        "UnityEngine.CoreModule.dll",
+        "Zenject.dll",
+        "Unity.InputSystem.dll"
+    ],
+    "hotUpdateAssemblies": [
+        "Game.Runtime.dll"
+    ],
+    "catalogFile": "catalog_1.4.0.bin",
+    "minPlayerVersion": "1.4.0",
+    "files": [
+        {
+            "name": "Game.Runtime.dll.bytes",
+            "size": 24064,
+            "md5": "3d0d4eefc2259c93a20535be0bc75ddd"
+        },
+        {
+            "name": "mscorlib.dll.bytes",
+            "size": 2149888,
+            "md5": "bd5c62ed1ea958d1555bc5929fec7c62"
+        },
+        {
+            "name": "UnityEngine.CoreModule.dll.bytes",
+            "size": 954880,
+            "md5": "cabd76dbccf6f1650d1bc35af37d92c4"
+        },
+        {
+            "name": "Zenject.dll.bytes",
+            "size": 484864,
+            "md5": "3cc7c8ef497f0f33decc46a9d44cef57"
+        },
+        {
+            "name": "Unity.InputSystem.dll.bytes",
+            "size": 1123328,
+            "md5": "c8fcdc3e223a317f9d75b03b3a6f1122"
+        },
+        {
+            "name": "catalog_1.4.0.bin",
+            "size": 2225,
+            "md5": "842a83d5d1b9935b7cf2517d265c7cd3"
+        },
+        {
+            "name": "catalog_1.4.0.hash",
+            "size": 32,
+            "md5": "60056e4b64a7b366825813bf1c03d033"
+        }
+    ]
+}
